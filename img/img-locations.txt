@@ -1,2 +1,0 @@
-img/logo.png
-img/social-icons.png
